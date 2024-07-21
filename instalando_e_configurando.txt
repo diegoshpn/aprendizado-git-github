@@ -1,0 +1,1 @@
+Nessa aula aprendi a baixar e configurar o GIT e GITHUB.
